@@ -1,0 +1,13 @@
+#header > header .image.avatar {
+    border-radius: 50% !important;
+    overflow: hidden !important;
+    aspect-ratio: 1/1 !important;
+}
+
+#header > header .image.avatar img {
+    border-radius: 50% !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    display: block !important;
+}
